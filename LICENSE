@@ -1,0 +1,54 @@
+MIT License
+
+Copyright (c) 2024 Network Traffic Monitor Tool
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+⚖️ LEGAL DISCLAIMER - IMPORTANT LEGAL NOTICE
+
+This tool is designed for legitimate web development, debugging, testing, and
+educational purposes only.
+
+✅ PERMITTED USES:
+- Development, testing, and debugging of your own web applications
+- Analyzing publicly available API structures and call patterns
+- Security research on systems you own or have explicit authorization to test
+- Learning about HTTP protocols and network request mechanics
+
+❌ PROHIBITED USES:
+- Unauthorized interception, monitoring, or analysis of other parties' network traffic
+- Accessing systems, resources, or data without explicit authorization
+- Collecting login credentials, personal privacy information, or trade secrets
+- Any activities that violate local laws and regulations
+
+⚠️ RISK WARNING:
+- Some websites and APIs explicitly prohibit automated traffic interception in their
+  Terms of Service
+- Unauthorized network monitoring is illegal in many jurisdictions
+- By using this tool, you agree to assume all risks and responsibilities
+
+This software is similar to Chrome DevTools Network Panel, Burp Suite, Fiddler,
+and other standard development debugging tools. Like those tools, this software
+must be used within authorized boundaries.
+
+Users are solely responsible for ensuring their use of this tool complies with
+all applicable laws, regulations, and the terms of service of any third-party
+systems they interact with.
