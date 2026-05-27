@@ -5,3 +5,4 @@ logs/
 .idea/
 .vscode/
 .env
+*.har
